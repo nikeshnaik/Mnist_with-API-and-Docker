@@ -1,0 +1,2 @@
+filename = 'mnist.zip'
+url = 'https://raw.githubusercontent.com/mlampros/DataSets/master/mnist.zip'
